@@ -2,7 +2,7 @@
 
 # Deploy
 
-Link Deploy : [Click here](https://todo-list-app-umber-eight.vercel.app//)
+Link Deploy : [Click here](http://devcode-todo-rio-skyshi.vercel.app/)
 
 # Getting Started with Create React App
 
